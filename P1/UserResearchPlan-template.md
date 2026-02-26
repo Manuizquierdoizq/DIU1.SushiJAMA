@@ -1,12 +1,24 @@
-
-
-## User Research Plan (template)
+## User Research Plan
 
 Diseño de Interfaces de Usuario, entregable práctica 1. 
 
 Documento plantilla, adaptar al contenido que sea necesario. 
 
 <img src="https://img.uxcel.com/cdn-cgi/image/format=auto/practices/user-research-1599142817996/a-1696512677044-2x.jpg" alt="UX Reaearch plan" style="height:250px" />
+
+
+## 0. Briefing Inicial (SushiJAMA) 
+<br><br>
+
+Para comenzar a hacer el User Research Plan de nuestro proyecto SushiJAMA hemos visitado y degustado otros restaurantes Japoneses con una temática parecida a la que tenemos ideada con la finalidad de abstraernos de lo convencional.
+
+La investigación que hemos realizado se ha basado en identificar los posibles puntos débiles de otros restaurantes para conseguir adaptar la comida Japonesa tradicional a las nuevas tendencias, para ello nos hemos basado en patrones de consumo y opiniones/reseñas de distintos usuarios en redes sociales buscando siempre la novedad.
+
+Para ir consiguiendo estos objetivos nos centraremos en que el público usuario sea participe del progreso del restaurante aportando por diferentes medios sus propuestas de mejora e ideas rellenando formularios y encuestas de mejora sobre las que obtendrá una bonificación en su siguiente visita por el local.
+
+
+
+<br>
 
 ## 1 Descripción 
 
@@ -24,15 +36,6 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 - **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
 
 - **Experiencia del equipo / justificación**
-
-> tipología:
->
-> > como diseñador (he creado productos similares... )
-
->> como stakeholder (he tenido experiencia al ser parte de .... )
-
->> como observador/oir a la gente (observo que....)
-
 
 
 #### 2. Metodología (The "How")

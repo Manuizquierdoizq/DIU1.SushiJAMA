@@ -8,4 +8,4 @@ SushiJAMA se diferencia del resto de locales con una nueva mecánica que consist
 
 Para hacer esto posible, nos centraremos en que el público usuario sea participe del progreso del restaurante aportando sus propuestas de mejora e ideas para futuras temporadas.
 
-![Logo](img/Logo.png)
+![Logo](/img/Logo.png)

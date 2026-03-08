@@ -7,3 +7,5 @@ La investigación que hemos realizado se ha basado en identificar los posibles p
 SushiJAMA se diferencia del resto de locales con una nueva mecánica que consiste en una recompensa ambientada en la temática que haya en ese momento. Esta, consiste en un gashapon de pequeños premios aleatorios, que variarán por temporada cada 5 puntos adquiridos. Estos dependen del tipo de plato pedido, habiendo platos de 1,2 y 3 puntos. Con esta propuesta, queremos incentivar a que los usuarios quieran coleccionar todos los premios de esa temporada. Además habrá una recompensa adicional para quienes tengan toda la colección.
 
 Para hacer esto posible, nos centraremos en que el público usuario sea participe del progreso del restaurante aportando sus propuestas de mejora e ideas para futuras temporadas.
+
+![Logo](images/Logo.png)

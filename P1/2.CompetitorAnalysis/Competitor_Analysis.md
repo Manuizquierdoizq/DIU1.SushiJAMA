@@ -11,4 +11,6 @@ Realizar esta comparativa nos aporta información vital para **SushiJAMA**, most
 
 A continuación, mostramos la matriz de análisis donde hemos evaluado aspectos de modelo de negocio, funcionalidad, usabilidad y accesibilidad:
 
-![Analisis Competitivo](Competitor_Analysis.png)
+<p align="center">
+  <img src="/img/Competitor_Analysis.png">
+</p

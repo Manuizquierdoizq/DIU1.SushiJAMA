@@ -41,34 +41,47 @@ A continuación, mostramos la matriz de análisis donde hemos evaluado aspectos 
 
 ### 1.c Personas 
 -----
-Presentamos dos perfiles diferentes, donde cada uno aporta su visión y experiencia desde perspectivas diferentes, pero con el objetivo común. Ismael es un líder extrovertido y ordenado, apasionado por la moda, la tecnología y el impacto positivo en el medioambiente.  Alejandra por otro lado es una persona creativa y comprometida con el consumo responsable, el bienestar animal y la innovación tecnológica.
+Presentamos dos perfiles diferentes, donde cada uno aporta su visión y expectativas desde perspectivas distintas, pero con el objetivo común de disfrutar de una experiencia gastronómica única y sin complicaciones. David es un chico más reflexivo e introvertido, un coleccionista apasionado por el anime y los juegos de rol que valora la eficiencia y busca asegurar la mesa para sus amigos sin tener que hacer colas. Yelena, por otro lado, es una líder extrovertida y creativa, experta en marketing digital, que siempre busca locales innovadores e "instagrameables" para compartir contenido e interactuar con la comunidad de sus marcas favoritas.
 <br>
-![Método UX](./P1/3.Personas/David.png) 
-![Método UX](./P1/3.Personas/Yelena.png)
+![David](./3.Personas/David.png)
+![Yelena](./3.Personas/Yelena.png)
 
----
 
 ### 1.d User Journey Map
 ----
 
 
-Ismael y Alejandra exploran el mundo del reciclaje y el comercio sostenible desde perspectivas diferentes. Para Ismael, la plataforma representa una oportunidad para entender mejor la sostenibilidad en el marketing, pero la falta de accesibilidad en la web dificulta su experiencia, especialmente al intentar colaborar. A pesar de esto, encuentra valor en la donación de ropa y su impacto positivo. Mientras, Alejandra busca tiendas físicas para comprar ropa de segunda mano de forma consciente. Aunque la web le ayuda a ubicar opciones cercanas, la falta de información sobre disponibilidad y calidad de los productos le genera dudas.
+David y Yelena se enfrentan a la experiencia de visitar un restaurante de la competencia (Amazing Mota) desde perspectivas muy diferentes. Para David, la salida representa una oportunidad para disfrutar con sus amigos de rol y ampliar su colección de figuras, pero la imposibilidad de reservar online y las largas esperas en la calle dificultan enormemente su experiencia. A pesar de disfrutar de la comida y el premio físico, la falta de un perfil digital para guardar su progreso le resulta frustrante. Por su parte, Yelena busca un local estético para crear contenido e interactuar con la marca. Aunque el ambiente visual le resulta muy atractivo, la pobre digitalización del menú y la ausencia total de una comunidad online donde participar o dejar sugerencias acaban frustrando por completo su experiencia.
 <br>
-![Método UX](./img/Persona1_journeyMap.png) 
-![Método UX](./img/Persona2_journeyMap.png) 
+![Método UX](./4.JourneyMaps/David-Journey.jpg) 
+![Método UX](./4.JourneyMaps/Yelena-Journey.jpg) 
 
 
 ### 1.e Usability Review
 ----
 
-La pagina de Mode Re- ha obtenido un 63 sobre 100 
-<br><br>
-![Método UX](img/usabilityReview_nota.png) 
-<br><br>
-En cuanto a las estetica, Moda Re- nos ofrece una pagina muy agradable a la vista, con colores y tonos pastel que hacen que leer el contenido de la pagina y acceder a sus funcionalidades sea agradable y placentero. Pero en cuando al diseño, la pagina tiene bastantes aspectos negativos a comentar que afectan a la calidad del contenido. Lo primero que se puede observar al entrar en algunas secciones de la pagina web es que contiene una mala estructuracion, tanto con el texto como con las imagenes, y es que muchas veces entremezclan el titulo de la pagina o de la sección con el parrafo que la explica haciendo que este sea difícil de leer o que lo ignores por completo. Otro problema que tiene la pagina es la redundancia de la información que intentan mostrar, ya que en varias de las secciones que tiene la pagina se repite la informacion del titulo en el siguiente parrafo, haciendo que no solo te canses de leer lo que te muestra y te vuelve más propenso a salirte de la página. Tras esto, vemos una clara incosistencia en el formato que tiene la pagina ya que no solo no utiliza las mismas fuentes para la estuctura de todos los titulos y parrafos del sitio, sino que en ocasiones te proporcionan un enlace para obtener mas información y otras no.
 
-Tambien en la funcionalidad de busqueda de tiendas fisicas de Moda Re- o de puntos de recogida de ropa tiene bastantes problemas. No te indica que para buscar correctamente un punto en una ubicación concreta obligaroriamente tienes que indicar un codigo postal y una distancia minima de busqueda. En caso contrario no realiza ninguna busqueda y te muestra un mapa con todos los puntos disponibles, lo que puede llegar a saturar al usuario. Por otra parte, con o sin busqueda de sitio especifico, se muestra la información de los lugares disponibles en secciones poco estructuradas y con información redundante e innecesaria con un scroll vertical poco intuitivo.
-
-Enlace: [Aqui](Usability-review-Moda-Re.xlsx).
-
+La página de **SushiJAMA** ha obtenido una puntuación de **79 sobre 100** (Buena).
 <br>
+![Usability Review](./5.UsabilityReview/usabilityReview_nota.png) 
+<br>
+
+En nuestra revisión, SushiJAMA demuestra ser una plataforma sólida y bien planteada. Destaca especialmente en la claridad de su contenido, la arquitectura de la información y la facilidad para que los usuarios comprendan el innovador sistema de recompensas gamificado. La identidad visual es atractiva y está muy bien alineada con nuestro público objetivo.
+
+Sin embargo, para alcanzar la excelencia y superar a competidores físicos como Amazing Mota o Kura Sushi, hemos detectado áreas de mejora clave. Existen ciertas fricciones en el flujo de la reserva online que podrían simplificarse para reducir el número de clics, y las opciones de filtrado en el menú digital pueden resultar algo confusas en dispositivos móviles. Optimizar la navegación en estos puntos es crucial para redondear la experiencia del usuario.
+
+Enlace: [Aquí](./5.UsabilityReview/UsabilityReview_SushiJAMA.xlsx).
+
+
+### 1.d Briefing Final
+----
+
+Como se indicó inicialmente en el [User Research](../1.UserResearchPlan/User_Research_Plan.md), el objetivo de nuestro proyecto SushiJAMA es revolucionar la experiencia en la restauración japonesa, uniendo la reserva online con un sistema de fidelización (Pakupaku-Go).
+
+Para asentar las bases, iniciamos haciendo un [Análisis de competidores](../2.CompetitorAnalysis/Competitor_Analysis.md), destacando el caso de [Amazing Mota](https://www.amazingmota.com/welcome). Concluimos que, aunque su modelo físico con gashapones y cinta giratoria es muy atractivo para el público, presenta una gran carencia: no admiten reservas online y su menú es un simple PDF estático, lo que genera fricción en la experiencia del usuario incluso antes de visitar el local.
+
+Después, valoramos esta [experiencia](../4.JourneyMaps/JourneyMap.pdf) a través de dos [perfiles](../3.Personas/Personas.pdf) con intereses distintos. Por un lado, David, un usuario coleccionista que buscaba organizar una cena con amigos, se encontró con el estrés de hacer cola en la calle y la frustración de no poder registrar digitalmente sus premios físicos. Por otro lado, Yelena, una creadora de contenido que buscaba interactuar con la marca, se topó con un sistema sin opciones para dejar feedback o participar en una comunidad.
+
+Finalizamos con una revisión de [usabilidad](../5.UsabilityReview/UsabilityReview.pdf) del sitio, obteniendo una puntuación de 71/100. Valoramos positivamente aspectos como la estructura visual y la claridad del menú principal, pero detectamos algunos fallos como una barra de búsqueda mejorable, posibles errores en la navegación y las citas del apartado de reservas así como la falta de opciones de filtrado.
+
+En conclusión, el estudio confirma que existe un nicho claro para SushiJAMA. Para triunfar, es necesario diseñar una plataforma *web responsive* que elimine las colas mediante reservas online, ofrezca una carta interactiva y fidelice al usuario permitiéndole gestionar sus puntos de gashapon y votar en las decisiones futuras del restaurante.

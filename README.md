@@ -17,8 +17,8 @@ Prácticas Diseño Interfaces de Usuario (Tema: Restaurante Sushi Temática Anim
 </p>
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Juan Antonio Jara     :octocat:     
- * :bust_in_silhouette:  Manuel Jesús Izquierdo     :octocat:
+ * :bust_in_silhouette:  Juan Antonio Jara     :octocat:   https://github.com/juaantt123     
+ * :bust_in_silhouette:  Manuel Jesús Izquierdo     :octocat:  https://github.com/Manuizquierdoizq
 
 ----- 
 

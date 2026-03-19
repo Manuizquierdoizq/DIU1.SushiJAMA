@@ -1,48 +1,31 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Restaurante Sushi Temática Anime ) 
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
 * Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
 * [Recursos/plantillas en figma](https://www.figma.com/design/BN2IR0q2clOSplfMmalh9K/DIU_Toolkit_Framework--2026-)
 
-
-
-
-Actualizado: 14/01/2026
-
-
-
-
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
+**Grupo:** DIU1_SushiJAMA.  **Curso:** 2025/26 
 
+**Actualizado:** 19/03/2026
 
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+**Proyecto:** SushiJAMA
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+**Descripción:** SushiJAMA es un restaurante japonés de temática anime que combina la gastronomía japonesa con un innovador sistema de recompensas físicas mediante Gashapones. A través de nuestra plataforma web, los usuarios acceden a "Pakupaku-Go", un sistema de fidelización donde cada plato consumido otorga 1, 2 o 3 puntos según su categoría. Al acumular 5 puntos, el cliente consigue un premio aleatorio de la colección temática de esa temporada. Aquellos usuarios que logran reunir todos los premios de una colección obtienen una recompensa final exclusiva. Todo el progreso se gestiona desde su perfil, donde además pueden interactuar con la comunidad y votar las temáticas de las futuras temporadas.
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+**Logotipo:**
+<p align="center">
+  <img src="./img/Logo.png" width="400">
+</p>
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  Juan Antonio Jara     :octocat:     
+ * :bust_in_silhouette:  Manuel Jesús Izquierdo     :octocat:
 
 ----- 
 
@@ -50,55 +33,97 @@ Miembros y nombre del equipo:
 
 # Proceso de Diseño 
 
-
-
-
-
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
-
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+### 1.a User Research Plan
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+
+Para comenzar a hacer el User Research Plan de nuestro proyecto SushiJAMA hemos visitado y degustado otros restaurantes japoneses con una temática parecida a la que tenemos ideada con la finalidad de abstraernos de lo convencional.
+
+La investigación que hemos realizado se ha basado en identificar los posibles puntos débiles de otros restaurantes para conseguir adaptar la comida japonesa tradicional a las nuevas tendencias, para ello nos hemos basado en patrones de consumo y opiniones/reseñas de distintos usuarios en redes sociales buscando siempre la novedad.
+
+SushiJAMA se diferencia del resto de locales con una nueva mecánica que consiste en una recompensa ambientada en la temática que haya en ese momento. Esta, consiste en un gashapon de pequeños premios aleatorios, que variarán por temporada cada 5 puntos adquiridos. Estos dependen del tipo de plato pedido, habiendo platos de 1,2 y 3 puntos. Con esta propuesta, queremos incentivar a que los usuarios quieran coleccionar todos los premios de esa temporada. Además habrá una recompensa adicional para quienes tengan toda la colección.
+
+Para hacer esto posible, nos centraremos en que el público usuario sea participe del progreso del restaurante aportando sus propuestas de mejora e ideas para futuras temporadas.
+
+<p align="center">
+  <img src="../img/Logo.png" width="500">
+</p>
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+
+Para nuestro análisis competitivo, hemos seleccionado dos modelos de negocio parecidos al nuestro que nos permiten evaluar cómo se gestiona la experiencia de usuario frente al sistema de recompensas:
+
+* **[Amazing Mota](https://www.amazingmota.com/welcome) (Valencia):** Un restaurante buffet local muy popular por incluir una cinta giratoria y máquinas de Gashapon físicas.
+* **[Kura Sushi](https://kurasushi.com/) (Internacional):** Es una cadena global pionera en la integración de recompensas mediante su sistema *Bikkura Pon*.
+
+Hemos elegido estas dos plataformas porque representan los dos extremos del mercado al que nos dirigimos. Por un lado, Amazing Mota tiene un gran atractivo físico, pero su carencia total de reservas online y de un seguimiento digital de los premios genera algo de fricción al usuario. Por otro lado, Kura Sushi ofrece un ecosistema digital robusto, pero su interacción es puramente unidireccional (el usuario consume y recibe, sin formar parte de una comunidad). 
+
+Realizar esta comparativa nos aporta información vital para **SushiJAMA**, mostrando que existe un nicho desatendido para una plataforma que combine un portal de *delivery* con un perfil de usuario gamificado (*Pakupaku-Go*) donde el progreso se guarde digitalmente y la comunidad participe en las decisiones del restaurante.
+
+A continuación, mostramos la matriz de análisis donde hemos evaluado aspectos de modelo de negocio, funcionalidad, usabilidad y accesibilidad:
+
+![Competitor Analysis](../img/Competitor_Analysis.png)
 
 
-### 1.c Personas
-![Método UX](img/Persona.png) 
+
+### 1.c Personas 
 -----
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Presentamos dos perfiles diferentes, donde cada uno aporta su visión y expectativas desde perspectivas distintas, pero con el objetivo común de disfrutar de una experiencia gastronómica única y sin complicaciones. David es un chico más reflexivo e introvertido, un coleccionista apasionado por el anime y los juegos de rol que valora la eficiencia y busca asegurar la mesa para sus amigos sin tener que hacer colas. Yelena, por otro lado, es una líder extrovertida y creativa, experta en marketing digital, que siempre busca locales innovadores e "instagrameables" para compartir contenido e interactuar con la comunidad de sus marcas favoritas.
+<br>
+![David](./3.Personas/David.png)
+![Yelena](./3.Personas/Yelena.png)
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+
+David y Yelena se enfrentan a la experiencia de visitar un restaurante de la competencia (Amazing Mota) desde perspectivas muy diferentes. Para David, la salida representa una oportunidad para disfrutar con sus amigos de rol y ampliar su colección de figuras, pero la imposibilidad de reservar online y las largas esperas en la calle dificultan enormemente su experiencia. A pesar de disfrutar de la comida y el premio físico, la falta de un perfil digital para guardar su progreso le resulta frustrante. Por su parte, Yelena busca un local estético para crear contenido e interactuar con la marca. Aunque el ambiente visual le resulta muy atractivo, la pobre digitalización del menú y la ausencia total de una comunidad online donde participar o dejar sugerencias acaban frustrando por completo su experiencia.
+<br>
+![Journey David](./4.JourneyMaps/David-Journey.jpg) 
+![Journey Yelena](./4.JourneyMaps/Yelena-Journey.jpg) 
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
+La página de **SushiJAMA** ha obtenido una puntuación de **79 sobre 100** (Buena).
 <br>
+![Usability Review](./5.UsabilityReview/usabilityReview_nota.png) 
+<br>
+
+En nuestra revisión, SushiJAMA demuestra ser una plataforma sólida y bien planteada. Destaca especialmente en la claridad de su contenido, la arquitectura de la información y la facilidad para que los usuarios comprendan el innovador sistema de recompensas gamificado. La identidad visual es atractiva y está muy bien alineada con nuestro público objetivo.
+
+Sin embargo, para alcanzar la excelencia y superar a competidores físicos como Amazing Mota o Kura Sushi, hemos detectado áreas de mejora clave. Existen ciertas fricciones en el flujo de la reserva online que podrían simplificarse para reducir el número de clics, y las opciones de filtrado en el menú digital pueden resultar algo confusas en dispositivos móviles. Optimizar la navegación en estos puntos es crucial para redondear la experiencia del usuario.
+
+Enlace: [Aquí](./5.UsabilityReview/UsabilityReview_SushiJAMA.xlsx).
+
+
+### 1.f Briefing Final
+----
+
+Como se indicó inicialmente en el [User Research](#1a-user-research-plan), el objetivo de nuestro proyecto SushiJAMA es revolucionar la experiencia en la restauración japonesa, uniendo la reserva online con un sistema de fidelización (Pakupaku-Go).
+
+Para asentar las bases, iniciamos haciendo un [Análisis de competidores](#1b-competitive-analysis), destacando el caso de [Amazing Mota](https://www.amazingmota.com/welcome). Concluimos que, aunque su modelo físico con gashapones y cinta giratoria es muy atractivo para el público, presenta una gran carencia: no admiten reservas online y su menú es un simple PDF estático, lo que genera fricción en la experiencia del usuario incluso antes de visitar el local.
+
+Después, valoramos esta [experiencia](#1d-user-journey-map) a través de dos [perfiles](#1c-Personas) con intereses distintos. Por un lado, David, un usuario coleccionista que buscaba organizar una cena con amigos, se encontró con el estrés de hacer cola en la calle y la frustración de no poder registrar digitalmente sus premios físicos. Por otro lado, Yelena, una creadora de contenido que buscaba interactuar con la marca, se topó con un sistema sin opciones para dejar feedback o participar en una comunidad.
+
+Finalizamos con una revisión de [usabilidad](#1e-usability-review) del sitio, obteniendo una puntuación de 79/100. Valoramos positivamente aspectos como la estructura visual y la claridad del menú principal, pero detectamos algunos fallos como una barra de búsqueda mejorable, posibles errores en la navegación y las citas del apartado de reservas así como la falta de opciones de filtrado.
+
+En conclusión, el estudio confirma que existe un nicho claro para SushiJAMA. Para triunfar, es necesario diseñar una plataforma *web responsive* que elimine las colas mediante reservas online, ofrezca una carta interactiva y fidelice al usuario permitiéndole gestionar sus puntos de gashapon y votar en las decisiones futuras del restaurante.
+<br>
+<br>
+
+
 
 ## Paso 2. UX Design  
 

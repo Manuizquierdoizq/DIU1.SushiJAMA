@@ -44,7 +44,7 @@ SushiJAMA se diferencia del resto de locales con una nueva mecánica que consist
 Para hacer esto posible, nos centraremos en que el público usuario sea participe del progreso del restaurante aportando sus propuestas de mejora e ideas para futuras temporadas.
 
 <p align="center">
-  <img src="../img/Logo.png" width="500">
+  <img src="./img/Logo.png" width="500">
 </p>
 
 
@@ -63,7 +63,7 @@ Realizar esta comparativa nos aporta información vital para **SushiJAMA**, most
 
 A continuación, mostramos la matriz de análisis donde hemos evaluado aspectos de modelo de negocio, funcionalidad, usabilidad y accesibilidad:
 
-![Competitor Analysis](../img/Competitor_Analysis.png)
+![Competitor Analysis](./img/Competitor_Analysis.png)
 
 
 
@@ -71,8 +71,8 @@ A continuación, mostramos la matriz de análisis donde hemos evaluado aspectos 
 -----
 Presentamos dos perfiles diferentes, donde cada uno aporta su visión y expectativas desde perspectivas distintas, pero con el objetivo común de disfrutar de una experiencia gastronómica única y sin complicaciones. David es un chico más reflexivo e introvertido, un coleccionista apasionado por el anime y los juegos de rol que valora la eficiencia y busca asegurar la mesa para sus amigos sin tener que hacer colas. Yelena, por otro lado, es una líder extrovertida y creativa, experta en marketing digital, que siempre busca locales innovadores e "instagrameables" para compartir contenido e interactuar con la comunidad de sus marcas favoritas.
 <br>
-![David](./3.Personas/David.png)
-![Yelena](./3.Personas/Yelena.png)
+![David](./P1/3.Personas/David.png)
+![Yelena](./P1/3.Personas/Yelena.png)
 
 
 ### 1.d User Journey Map
@@ -81,8 +81,8 @@ Presentamos dos perfiles diferentes, donde cada uno aporta su visión y expectat
 
 David y Yelena se enfrentan a la experiencia de visitar un restaurante de la competencia (Amazing Mota) desde perspectivas muy diferentes. Para David, la salida representa una oportunidad para disfrutar con sus amigos de rol y ampliar su colección de figuras, pero la imposibilidad de reservar online y las largas esperas en la calle dificultan enormemente su experiencia. A pesar de disfrutar de la comida y el premio físico, la falta de un perfil digital para guardar su progreso le resulta frustrante. Por su parte, Yelena busca un local estético para crear contenido e interactuar con la marca. Aunque el ambiente visual le resulta muy atractivo, la pobre digitalización del menú y la ausencia total de una comunidad online donde participar o dejar sugerencias acaban frustrando por completo su experiencia.
 <br>
-![Journey David](./4.JourneyMaps/David-Journey.jpg) 
-![Journey Yelena](./4.JourneyMaps/Yelena-Journey.jpg) 
+![Journey David](./P1/4.JourneyMaps/David-Journey.jpg) 
+![Journey Yelena](./P1/4.JourneyMaps/Yelena-Journey.jpg) 
 
 
 ### 1.e Usability Review
@@ -91,14 +91,14 @@ David y Yelena se enfrentan a la experiencia de visitar un restaurante de la com
 
 La página de **SushiJAMA** ha obtenido una puntuación de **79 sobre 100** (Buena).
 <br>
-![Usability Review](./5.UsabilityReview/usabilityReview_nota.png) 
+![Usability Review](./P1/5.UsabilityReview/usabilityReview_nota.png) 
 <br>
 
 En nuestra revisión, SushiJAMA demuestra ser una plataforma sólida y bien planteada. Destaca especialmente en la claridad de su contenido, la arquitectura de la información y la facilidad para que los usuarios comprendan el innovador sistema de recompensas gamificado. La identidad visual es atractiva y está muy bien alineada con nuestro público objetivo.
 
 Sin embargo, para alcanzar la excelencia y superar a competidores físicos como Amazing Mota o Kura Sushi, hemos detectado áreas de mejora clave. Existen ciertas fricciones en el flujo de la reserva online que podrían simplificarse para reducir el número de clics, y las opciones de filtrado en el menú digital pueden resultar algo confusas en dispositivos móviles. Optimizar la navegación en estos puntos es crucial para redondear la experiencia del usuario.
 
-Enlace: [Aquí](./5.UsabilityReview/UsabilityReview_SushiJAMA.xlsx).
+Enlace: [Aquí](./P1/5.UsabilityReview/UsabilityReview_SushiJAMA.xlsx).
 
 
 ### 1.f Briefing Final

@@ -1,6 +1,8 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
+En esta fase, hemos convergido las ideas iniciales recopiladas para estructurar las necesidades reales de nuestros usuarios frente a la propuesta del restaurante interactivo.
+
 * Malla receptora de información 
 * Mapa de empatía
 * Point of View 

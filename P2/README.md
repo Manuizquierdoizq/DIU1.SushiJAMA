@@ -76,6 +76,10 @@ Sistemas de Cuadrícula: Vistas de Carta/Menú y Comunidad que reorganizan su co
 
 Componentes reutilizables: Creación de master components para los menús de navegación, footers, y tarjetas de platos (Item_Plato).
 
+* [WIREFRAME-PC](https://github.com/Manuizquierdoizq/DIU1.SushiJAMA/tree/master/P2/Wireframe_PC)
+
+* [WIREFRAME-MOVIL](https://github.com/Manuizquierdoizq/DIU1.SushiJAMA/tree/master/P2/Wireframe_Movil)
+
 ### Conclusiones  
 En esta segunda fase, hemos transformado la investigación inicial de SushiJAMA en una estructura digital sólida. Nuestro objetivo: resolver la fricción de las colas físicas y digitalizar la experiencia de gamificación (Gashapon).
 

@@ -31,11 +31,27 @@ La Joven Participativa: Aburrida de restaurantes unidireccionales. Insight: Nece
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+El lienzo de alcance define a SushiJAMA no solo como un restaurante, sino como una experiencia gastronómica innovadora y cambiante basada en animes de la infancia. Se establecen objetivos a corto plazo (rediseño web accesible y corrección de flujos de reserva) y a largo plazo (colaboración con el sector primario y fomento de la cultura japonesa). Las métricas clave de éxito se basarán en el aumento de reservas, valoraciones y volumen de interacciones en el módulo de comunidad.
+
+![ScopeCanvas (1)](https://github.com/user-attachments/assets/87f0263c-10ff-45c9-8079-4fc33966b268)
+
+
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+ 
+Mediante una matriz de tareas, cruzamos los distintos perfiles de usuario (registrado, no registrado, administrador) con las acciones principales (reservar, ver carta, escanear código QR, votar temáticas). Esto nos permitió priorizar el desarrollo de flujos críticos frente a acciones secundarias.
+
 * User/Task flow
+
+Se han modelado los diagramas de flujo lógicos para las dos tareas más críticas (Happy Paths) que resuelven los insights de nuestro POV:
+
+Flujo de Reserva: Implementa una validación lógica de sesión (Autenticación) y un control de disponibilidad de fechas antes de confirmar.
+
+Registro de Recompensa (Pakupaku-Go): Detalla la interacción Phygital (Físico-Digital). El usuario inicia sesión, accede al inventario, concede permisos de cámara, escanea el QR de su premio y el sistema valida si es único antes de sumarlo a su colección digital.
+
+![UserFlow](https://github.com/user-attachments/assets/2e0d3f6f-2358-48ce-95be-a1e74a63da9d)
 
 
 ### ARQUITECTURA DE INFORMACIÓN

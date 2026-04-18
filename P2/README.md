@@ -7,13 +7,13 @@ En esta fase, hemos convergido las ideas iniciales recopiladas para estructurar 
 
 Se ha utilizado una matriz de 4 cuadrantes (Cosas positivas, Críticas constructivas, Preguntas e Ideas) para evaluar el concepto inicial. Destacan como puntos fuertes el diseño minimalista y el sistema de reservas, pero se han detectado dudas clave sobre la vinculación de cuentas con la máquina física de Gashapon y el gasto imprevisto para conseguir puntos. Como ideas de mejora, se proponen mercados de intercambio de figuras y notificaciones push.
 
-  <img width="3291" height="2600" alt="FeedbackCaptureGrid" src="https://github.com/user-attachments/assets/30882cf9-5517-42ea-a31e-271f7eb62367" />
+  <img width="3291" height="2600" alt="FeedbackCaptureGrid" src="./FeedbackCaptureGrid.png" />
 
 * Mapa de empatía
 
 Hemos mapeado los dolores (Pains) y ganancias (Gains) de nuestro público objetivo. Se evidencia una clara frustración generalizada por las colas y los tiempos de espera (Pain), frente a un alto nivel de motivación (Gain) impulsado por la gamificación de la experiencia (coleccionismo de premios con 5 puntos) y el entorno temático.
 
-<img width="5024" height="3945" alt="empathyMap" src="https://github.com/user-attachments/assets/c5db2fe8-063a-4e4c-a119-fa616ae937d1" />
+<img width="5024" height="3945" alt="empathyMap" src="./empathyMap.png" />
 
 * Point of View
 
@@ -33,7 +33,7 @@ La Joven Participativa: Aburrida de restaurantes unidireccionales. Insight: Nece
 
 El lienzo de alcance define a SushiJAMA no solo como un restaurante, sino como una experiencia gastronómica innovadora y cambiante basada en animes de la infancia. Se establecen objetivos a corto plazo (rediseño web accesible y corrección de flujos de reserva) y a largo plazo (colaboración con el sector primario y fomento de la cultura japonesa). Las métricas clave de éxito se basarán en el aumento de reservas, valoraciones y volumen de interacciones en el módulo de comunidad.
 
-![ScopeCanvas (1)](https://github.com/user-attachments/assets/87f0263c-10ff-45c9-8079-4fc33966b268)
+![ScopeCanvas (1)](./ScopeCanvas.jpg)
 
 
 
@@ -51,7 +51,7 @@ Flujo de Reserva: Implementa una validación lógica de sesión (Autenticación)
 
 Registro de Recompensa (Pakupaku-Go): Detalla la interacción Phygital (Físico-Digital). El usuario inicia sesión, accede al inventario, concede permisos de cámara, escanea el QR de su premio y el sistema valida si es único antes de sumarlo a su colección digital.
 
-![UserFlow](https://github.com/user-attachments/assets/2e0d3f6f-2358-48ce-95be-a1e74a63da9d)
+![UserFlow](./UserFlow.jpg)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
@@ -60,11 +60,13 @@ Registro de Recompensa (Pakupaku-Go): Detalla la interacción Phygital (Físico-
 
 El mapa del sitio revela una arquitectura jerárquica plana y accesible. Desde el Home nacen 6 nodos principales: Reservas, Carta (Menú), Pakupaku-Go (Recompensas y mecánicas), Quiénes Somos, Inicio Sesión / Perfil y Comunidad (Sugerencias y votaciones). Esta estructura asegura que ningún flujo crítico esté a más de 3 clics de profundidad.
 
-<img width="2528" height="1488" alt="SiteMap" src="https://github.com/user-attachments/assets/10d32ddb-0f9c-4a79-bbde-41a4f02d5789" />
+<img width="2528" height="1488" alt="SiteMap" src="./SiteMap.png" />
 
 * Labelling
 
 Se ha diseñado un vocabulario orientado a la inmersión del usuario. Por ejemplo, en lugar de utilizar términos genéricos como "Mis puntos" o "Recompensas", se ha acuñado el término "Pakupaku-Go" para darle identidad al sistema de gamificación. Asimismo, la sección social se engloba bajo "Comunidad", reforzando el sentimiento de pertenencia identificado en la fase de ideación.
+
+<img width="2528" height="1488" alt="Labelling" src="./Labelling.png" />
 
 ### Prototipo Lo-FI Wireframe 
 
@@ -90,6 +92,3 @@ Estructura: Trazamos los diagramas lógicos (User Flows) para estas tareas crít
 Prototipado: Materializamos esta arquitectura creando Wireframes Lo-Fi en Figma. Implementamos un diseño 100% responsivo (Mobile-First a Desktop) utilizando Auto Layout y cuadrículas elásticas.
 
 Conclusión: Hemos resuelto los retos estructurales y de usabilidad. La arquitectura del proyecto está validada y el terreno queda perfectamente preparado para iniciar el diseño visual de Alta Fidelidad (UI).
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica

@@ -18,6 +18,10 @@ Para hacer esto posible, nos centraremos en que el público usuario sea particip
   <img src="../img/Logo.png" width="500">
 </p>
 
+<p align="center">
+  <img src="../img/Logo.png" width="500">
+</p>
+
 
 ### 1.b Competitive Analysis
 -----

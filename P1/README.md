@@ -1,5 +1,12 @@
 # DIU - Practica1 (Entregables)
 
+**Proyecto:** SushiJAMA
+**Centro:** ETSIIT (UGR)  
+**Curso:** 2025-2026  
+**Equipo:** Manuel Jesús Izquierdo, Juan Antonio Jara  
+
+---
+
 ## Paso 1. UX User & Desk Research & Análisis 
 
 ### 1.a User Research Plan

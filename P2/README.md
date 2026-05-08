@@ -1,5 +1,12 @@
 ## DIU - Practica2, entregables
 
+**Proyecto:** SushiJAMA
+**Centro:** ETSIIT (UGR)  
+**Curso:** 2025-2026  
+**Equipo:** Manuel Jesús Izquierdo, Juan Antonio Jara  
+
+---
+
 ### Ideación 
 En esta fase, hemos convergido las ideas iniciales recopiladas para estructurar las necesidades reales de nuestros usuarios frente a la propuesta del restaurante interactivo.
 

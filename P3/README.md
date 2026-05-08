@@ -1,62 +1,54 @@
 # DIU - Práctica 3: Prototipado / Mockup
 
-**Proyecto:** SushiJAMA
-**Centro:** ETSIIT (UGR)  
+**Proyecto:** SushiJAMA  
+**Centro:** ETSIIT — Universidad de Granada  
 **Curso:** 2025-2026  
-**Equipo:** Manuel Jesús Izquierdo, Juan Antonio Jara  
+**Equipo:** Manuel Jesús Izquierdo, Juan Antonio Jara
 
 ---
 
-## 1. Moodboard (Diseño Visual y Logotipo)
+## 1. Moodboard
+
 ![Moodboard](./Moodboard.png)
 
-El diseño visual de **SushiJAMA** integra la gastronomía japonesa tradicional con una experiencia de usuario gamificada basada en la cultura *Gashapon*. 
+El diseño visual de SushiJAMA fusiona la gastronomía japonesa con la estética Kawaii y la cultura de coleccionables de anime. La paleta combina el coral `#FF7B54` como color de acción con el teal `#6EC6DD` como color de equilibrio, generando una identidad fresca y reconocible. Para tipografía se eligió **Fredoka** en titulares, por su carácter geométrico y amigable, junto a **Nunito** para el cuerpo de texto por su legibilidad en pantalla. El imagotipo representa una máquina Gashapon con elementos de sushi, reforzando visualmente la mecánica de recompensa del sistema PakuPaku-Go.
 
-* **Paleta Cromática:** Se utiliza una combinación de contraste alto entre el Coral (#FF7E5F) para elementos de acción y el Teal (#A8D8EA) como color secundario de equilibrio. Esta selección busca estimular el apetito manteniendo una estética digital moderna.
-* **Tipografía:** Se emplea **Lexend** para titulares por su carácter geométrico y amigable, junto a **Inter** para el cuerpo de texto, asegurando una legibilidad óptima en pantallas de alta densidad de píxeles.
-* **Identidad:** El imagotipo sintetiza la mecánica de una máquina de cápsulas con elementos minimalistas de sushi.
+---
 
-## 2. Landing Page (Vibe Coding / Design)
+## 2. Landing Page
+
 ![Landing Page](./Hi-fi/Landing.png)
 
-Se ha desarrollado una página de aterrizaje enfocada en el onboarding y la captación de usuarios. El diseño se ha realizado siguiendo tendencias de *Vibe Coding*, priorizando la fluidez visual y la comunicación de la propuesta de valor única: el sistema **PakuPaku-Go**.
+Página de aterrizaje orientada al onboarding de nuevos usuarios. Incluye un hero con el headline *"Donde cada bocado es un premio"*, sección de beneficios, explicación del sistema PakuPaku-Go en cuatro pasos y un CTA final de conversión. El diseño se desarrolló con herramientas de diseño asistido por IA para la generación de la estructura base, refinando manualmente los componentes para integrarlos en el sistema de diseño.
 
-* **Proceso de generación:** Se emplearon herramientas de IA generativa para la creación del copy emocional y la estructura base de las secciones de beneficios, refinando posteriormente los componentes de forma manual para su integración en el sistema de diseño.
+---
 
-## 3. Design System (Lenguaje Visual)
+## 3. Design System
+
 ![Design System](./DesignSystem.png)
 
-Se ha implementado un sistema de diseño ligero basado en la metodología **Atomic Design**, documentando los componentes esenciales para garantizar la escalabilidad del proyecto.
+Sistema de diseño ligero basado en **Atomic Design**, generado con el plugin **Foundation Studio** de Figma. Los componentes van desde átomos (botones, inputs, StarRating) hasta organismos completos (navbar, footer, tarjetas de platos).
 
-* **Atmos & Moléculas:** Definición de tokens de color, escalas tipográficas y botones con variantes de estado (default, hover, active).
-* **Retícula:** Sistema de espaciado basado en una rejilla de 8px para asegurar la alineación y consistencia en el layout.
-* **Componentes:** Uso de variantes de Figma y Auto Layout para permitir un diseño adaptativo y responsive.
+---
 
-## 4. Layout Hi-Fi (Prototipado de alta fidelidad)
+## 4. Layout Hi-Fi
 
-Se han diseñado las pantallas críticas que componen el flujo principal de la aplicación, utilizando los componentes definidos en el sistema de diseño.
+Pantallas de alta fidelidad que cubren el flujo completo del cliente, conectadas mediante prototipo interactivo en Figma con transiciones Smart Animate.
 
-### Flujo Principal
-| | |
-| :--- | :--- |
-| **Carta Interactiva** | **Dashboard PakuPaku-Go** |
-| ![Carta](./Hi-fi/Carta.png) | ![PakuPaku](./Hi-fi/Pakupaku-go.png) |
-| Menú segmentado con indicadores de puntos. | Centro de gestión de coleccionables. |
 
-### Vistas Adicionales
-* **Comunidad:** Espacio de interacción social para fidelización: ![Comunidad](./Hi-fi/Comunidad.png)
-* **Reservas:** Flujo de reserva optimizado: ![Reservar](./Hi-fi/Reservar.png)
-* **Registro:** Onboarding gamificado: ![Registro](./Hi-fi/Registrarse.png)
-* **Quiénes Somos:** Identidad corporativa y equipo: ![QuienesSomos](./Hi-fi/QuienesSomos.png)
+| Pantalla | Descripción |
+|---|---|
+| **Landing** | Onboarding y presentación de la propuesta de valor |
+| **Carta** | Menú por categorías con valoraciones, precios y puntos PakuPaku |
+| **PakuPaku-Go** | Dashboard personal de coleccionables y progreso de temporada |
+| **Comunidad** | Galería social bajo el hashtag #SushiJAMAFans |
+| **Quiénes Somos** | Historia, fundadores, valores y equipo |
+| **Reservar** | Formulario de reserva de mesa |
+| **Crear Cuenta** | Registro gamificado con incentivo de 50 puntos de bienvenida |
 
-### Simulación de Interacción
-Se ha configurado un prototipo funcional en Figma con transiciones de *Smart Animate* para simular el comportamiento real de la aplicación, incluyendo navegación entre secciones y estados de componentes.
+---
 
-* **Enlace al prototipo:** [Insertar enlace aquí]
+## 5. Briefing
 
-## 5. Briefing y Conclusiones
-
-La ejecución de esta práctica ha permitido materializar el concepto de **SushiJAMA** en un producto digital de alta fidelidad. 
-
-* **Efectividad de herramientas:** El uso de sistemas atómicos en Figma ha facilitado la iteración rápida del diseño, permitiendo cambios globales mediante la edición de componentes base.
-* **Conclusión:** La integración de mecánicas de juego en una interfaz de restauración convencional supone un reto de jerarquía visual que ha sido resuelto mediante el uso de tarjetas (cards) informativas y una navegación intuitiva. La coherencia visual lograda a través del Design System asegura una experiencia de usuario sólida y profesional.
+El principal reto del proyecto fue integrar las mecánicas de gamificación sin sobrecargar visualmente la pantalla del usuario. Partimos de un Design System sólido que agilizó el proyecto con componentes reutilizables en Figma, de esta manera cualquier ajuste se propagaba automáticamente a todas las pantallas facilitando la creación del Hi-Fi.
+Tuvimos que dar varios pasos atrás y simplificar, dejando la gamificación como algo que aparece de forma sutil en las pantallas del sitio web (los puntos en la carta, colección de figuras) y concentrando todo lo lúdico en la pantalla de PakuPaku-Go.

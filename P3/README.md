@@ -46,6 +46,12 @@ Pantallas de alta fidelidad que cubren el flujo completo del cliente, conectadas
 | **Reservar** | Formulario de reserva de mesa |
 | **Crear Cuenta** | Registro gamificado con incentivo de 50 puntos de bienvenida |
 
+![Landing Page](./Hi-fi/Carta.png)
+![Landing Page](./Hi-fi/Pakupaku-go.png)
+![Landing Page](./Hi-fi/Comunidad.png)
+![Landing Page](./Hi-fi/QuienesSomos.png)
+![Landing Page](./Hi-fi/Reservar.png)
+![Landing Page](./Hi-fi/Registrarse.png)
 ---
 
 ## 5. Briefing

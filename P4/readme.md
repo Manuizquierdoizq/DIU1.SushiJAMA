@@ -1,17 +1,40 @@
-# DIU - Practica 4, entregables
+# DIU - Práctica 4:
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
+**Proyecto:** SushiJAMA  
+**Centro:** ETSIIT — Universidad de Granada  
+**Curso:** 2025-2026  
+**Equipo:** Manuel Jesús Izquierdo, Juan Antonio Jara
 
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
+---
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
+## Descripción
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+En esta práctica hemos llevado los mockups de la P3 a una web funcional y publicada. El objetivo era pasar del prototipo estático en Figma a algo real que se pueda visitar en un navegador, manteniendo el diseño y la identidad visual que habíamos definido.
+
+**🔗 Web publicada:** [https://fix-crayon-77936773.figma.site](https://fix-crayon-77936773.figma.site)
+
+---
+
+## Páginas implementadas
+
+La web cubre el flujo completo del cliente con las siguientes páginas, todas navegables desde el menú principal:
+
+| Página | Descripción |
+|---|---|
+| **Inicio** | Landing con hero, beneficios, explicación de PakuPaku-Go y CTA de conversión |
+| **Carta** | Menú completo por categorías con filtros, valoraciones y puntos por plato |
+| **PakuPaku-Go** | Dashboard de coleccionables con progreso de temporada Naruto |
+| **Comunidad** | Galería social bajo el hashtag #SushiJAMAFans |
+| **Quiénes Somos** | Historia, fundadores, valores y equipo del restaurante |
+| **Reservar** | Formulario de reserva de mesa |
+| **Crear Cuenta / Iniciar Sesión** | Registro con incentivo de 50 puntos de bienvenida |
+
+---
+
+## Proceso y conclusiones
+
+Publicar la web fue más laborioso de lo que esperábamos. Adaptar el diseño de Figma a algo que funcionase de verdad en el navegador obligó a revisar cosas que en el prototipo estático no se notaban: que algunos textos quedaban cortados en ciertos tamaños de pantalla, que la navegación entre páginas tenía que estar bien enlazada en todos los sitios, que los formularios necesitaban coherencia visual real o que los botones fueran totalmente accesibles a dispositivos móviles.
+
+Lo que mejor funcionó fue haber partido de un Design System sólido desde la P3. Al tener los colores, tipografías y componentes ya definidos, trasladarlos a la web fue bastante directo usando la herramienta de IA de Figma (Figma Make).
+
+En general estamos contentos con el resultado. La web refleja bien la identidad de SushiJAMA y el concepto de gamificación queda claro desde la primera pantalla.

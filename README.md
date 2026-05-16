@@ -69,7 +69,7 @@ Llevamos el diseño Hi-Fi a una web funcional y publicada, manteniendo el sistem
 
 🔗 **Web publicada:** [https://fix-crayon-77936773.figma.site](https://fix-crayon-77936773.figma.site)
 
-📄 [Ver README completo P4](./P4/readme.md)
+📄 [Ver README completo P4](./P4/README.md)
 
 ---
 
